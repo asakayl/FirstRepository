@@ -4,3 +4,4 @@ Good Bye!
 line from user2
 line from user1
 line from user1 - lesson about rebase
+another line from user1 - second day rebase
